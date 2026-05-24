@@ -52,7 +52,7 @@ nav {
 
 .hero {
     background: linear-gradient(rgba(92, 58, 33, 0.6), rgba(92, 58, 33, 0.6)), url('https://images.unsplash.com/photo-1486427944299-d1955d23e34d?auto=format&fit=crop&w=1920&q=80') center/cover;
-    height: 60vh;
+    height: 40vh;
     display: flex;
     align-items: center;
     justify-content: center;
